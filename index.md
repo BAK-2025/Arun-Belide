@@ -1,5 +1,6 @@
 ---
 title: Welcome to my blog!
 ---
-#dfdsafdsfdsf
-
+[Observability]
+[Resume] This is all about me
+[Sample Projects] This is about my sample projects
