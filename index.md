@@ -6,3 +6,4 @@ title: Welcome to my blog!
 [Resume] This is all about me
 ----
 [Sample Projects] This is about my sample projects
+-----
