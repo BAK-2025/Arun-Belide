@@ -1,9 +1,9 @@
 ---
 title: Welcome to my blog!
 ---
-[Observability]
+#Observability
 ---
-[Resume] This is all about me
+#Resume This is all about me
 ----
-[Sample Projects] This is about my sample projects
+#Sample Projects This is about my sample projects
 -----
