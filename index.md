@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog!
+Title: Welcome to my blog!
 ---
 #[Resume](./Topics/2025-07-02-Resume.md) 
 
