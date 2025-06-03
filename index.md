@@ -1,7 +1,7 @@
 ---
 title: Welcome to my blog!
 ---
-#Resume [OpenAI](./Topics/2025-07-02-Resume.md) 
+#Resume [Resume](./Topics/2025-07-02-Resume.md) 
 
 #Observability
 ---
