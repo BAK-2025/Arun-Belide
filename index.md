@@ -1,4 +1,4 @@
-Title: Welcome to my blog!
+Title: About me!
 ---
 #[Resume](./Topics/2025-07-02-Resume.md) 
 ---
@@ -8,3 +8,5 @@ Title: Welcome to my blog!
 ----
 #Sample Projects This is about my sample projects
 -----
+Title: My Work Experience
+----
