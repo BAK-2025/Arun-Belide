@@ -1,10 +1,9 @@
 About me!
+--- 
 ---
-#[Resume](./Topics/work-Experience.md) 
+#[Experience](./Topics/Work-Experience.md) 
 ---
-#Experience
----
-#Education
+#[Education](./Topics/Education.md)
 ----
 #Sample Projects This is about my sample projects
 -----
