@@ -10,3 +10,7 @@ About me!
 -----
 Title: My Work Experience
 ----
+#Heading 1
+---
+##Heading 2
+---
