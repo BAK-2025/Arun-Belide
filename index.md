@@ -1,6 +1,8 @@
 ---
 title: Welcome to my blog!
 ---
+#Resume [OpenAI](./Topics/2025-07-02-Resume) 
+
 #Observability
 ---
 #Resume This is all about me
